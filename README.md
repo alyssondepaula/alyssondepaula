@@ -1,5 +1,7 @@
 ### Hello, meu nome Alysson de Paula 👋
 
+📚 Me aprofundando no universo typescript
+
  <div>
   <a href="https://github.com/alyssondepaula">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alyssondepaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
