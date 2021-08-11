@@ -2,7 +2,7 @@
 
 📚 Me aprofundando no universo typescript
 
- <div>
+<div>
   <a href="https://github.com/alyssondepaula">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alyssondepaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssondepaula&layout=compact&langs_count=7&theme=dracula"/>
