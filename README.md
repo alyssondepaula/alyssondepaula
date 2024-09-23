@@ -1,12 +1,5 @@
 ### Hello, meu nome Alysson de Paula 👋
 
-📚 Me aprofundando no universo typescript
-
-<div>
-  <a href="https://github.com/alyssondepaula">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alyssondepaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssondepaula&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alysson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alysson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
